@@ -1,2 +1,3 @@
-# channel-9-python-course
-Learning Python for beginners 
+## Microsoft Channel 9 Python course
+### Learning Python for beginners 
+
