@@ -12,7 +12,7 @@
 ### Features
 - print('Hello World')
 - input(arguments)
-- # comments
+- comments
 
 ### Next step
 
