@@ -13,6 +13,11 @@
 - print('Hello World')
 - input(arguments)
 - comments
+- heigher order functions
+- Functions -First class object
+- Inner functions
+- Decoratores https://realpython.com/primer-on-python-decorators/
+
 
 ### Next step
 
