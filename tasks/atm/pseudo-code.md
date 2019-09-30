@@ -1,4 +1,4 @@
-Welcome Screen
+```Welcome Screen
 Insert card
 Enter PIN
 Validate PIN
@@ -15,3 +15,4 @@ IF PIN is valid
 		Withdraw receipt
 	ELSE If amount parsing failed
 		prompt for enter amount again.
+```
